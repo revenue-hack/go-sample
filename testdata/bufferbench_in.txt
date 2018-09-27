@@ -1,0 +1,355 @@
+dtrace: system integrity protection is on, some features will not be available
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+dtrace: error on enabled probe ID 2158 (ID 561: syscall::sysctl:return): invalid kernel access in action #11 at DIF offset 40
+dtrace: error on enabled probe ID 2158 (ID 561: syscall::sysctl:return): invalid kernel access in action #11 at DIF offset 40
+dtrace: error on enabled probe ID 2158 (ID 561: syscall::sysctl:return): invalid kernel access in action #11 at DIF offset 40
+	PID/THRD  SYSCALL(args) 		 = return
+dtrace: error on enabled probe ID 2134 (ID 163: syscall::read:return): invalid kernel access in action #13 at DIF offset 92
+37615/0x2079df:  mmap(0xC000000000, 0x8420002000, 0x0, 0x1002, 0xFFFFFFFF, 0x0)		 = 0xC000000000 0
+37615/0x2079df:  mmap(0x0, 0x40000, 0x3, 0x1002, 0xFFFFFFFF, 0x0)		 = 0x1178000 0
+37615/0x2079df:  mmap(0xC420000000, 0x100000, 0x3, 0x1012, 0xFFFFFFFF, 0x0)		 = 0xC420000000 0
+37615/0x2079df:  mmap(0xC41FFF8000, 0x8000, 0x3, 0x1012, 0xFFFFFFFF, 0x0)		 = 0xC41FFF8000 0
+37615/0x2079df:  mmap(0xC000000000, 0x1000, 0x3, 0x1012, 0xFFFFFFFF, 0x0)		 = 0xC000000000 0
+37615/0x2079df:  mmap(0x0, 0x10000, 0x3, 0x1002, 0xFFFFFFFF, 0x0)		 = 0x11B8000 0
+37615/0x2079df:  mmap(0x0, 0x10000, 0x3, 0x1002, 0xFFFFFFFF, 0x0)		 = 0x11C8000 0
+37615/0x2079df:  open("/dev/urandom\0", 0x0, 0x0)		 = 3 0
+37615/0x2079df:  close(0x3)		 = 0 0
+37615/0x2079df:  __pthread_sigmask(0x3, 0x0, 0x113A1E0)		 = 0 0
+37615/0x2079df:  bsdthread_register(0x104EE50, 0x0, 0x0)		 = 1073741919 0
+37615/0x2079df:  sigaltstack(0x0, 0x7FFF5FBFF7A8, 0x0)		 = 0 0
+37615/0x2079df:  sigaltstack(0x7FFF5FBFF768, 0x0, 0x0)		 = 0 0
+37615/0x2079df:  __pthread_sigmask(0x3, 0x7FFF5FBFF7BC, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x1, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x1, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x2, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x2, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x3, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x3, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x4, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x4, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x5, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x5, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x6, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x6, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x7, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x7, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x8, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x8, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0xA, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0xA, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0xB, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0xB, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0xC, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0xC, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0xD, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0xD, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0xE, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0xE, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0xF, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0xF, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x10, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x10, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x14, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x14, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x17, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x17, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x18, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x18, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x19, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x19, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x1A, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x1A, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x1B, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x1B, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x1C, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x1C, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x1D, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x1D, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x1E, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x1E, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  sigaction(0x1F, 0x0, 0x7FFF5FBFF768)		 = 0 0
+37615/0x2079df:  sigaction(0x1F, 0x7FFF5FBFF760, 0x0)		 = 0 0
+37615/0x2079df:  __pthread_sigmask(0x3, 0x1126008, 0x7FFF5FBFF730)		 = 0 0
+37615/0x2079df:  bsdthread_create(0x102A680, 0xC420034000, 0xC420044000)		 = 0 0
+37615/0x2079fc:  sigaltstack(0x0, 0xC420043F78, 0x0)		 = 0 0
+37615/0x2079df:  __pthread_sigmask(0x3, 0x7FFF5FBFF730, 0x0)		 = 0 0
+37615/0x2079fc:  sigaltstack(0xC420043F38, 0x0, 0x0)		 = 0 0
+37615/0x2079fc:  __pthread_sigmask(0x3, 0xC420043F8C, 0x0)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079df:  __pthread_sigmask(0x3, 0x1126008, 0x7FFF5FBFF640)		 = 0 0
+37615/0x2079df:  bsdthread_create(0x102A680, 0xC420034400, 0xC420040000)		 = 0 0
+37615/0x2079fd:  sigaltstack(0x0, 0xC42003FF78, 0x0)		 = 0 0
+37615/0x2079df:  __pthread_sigmask(0x3, 0x7FFF5FBFF640, 0x0)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fd:  sigaltstack(0xC42003FF38, 0x0, 0x0)		 = 0 0
+37615/0x2079fd:  __pthread_sigmask(0x3, 0xC42003FF8C, 0x0)		 = 0 0
+37615/0x2079df:  __pthread_sigmask(0x3, 0x1126008, 0x7FFF5FBFF640)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079df:  bsdthread_create(0x102A680, 0xC420034800, 0xC420042000)		 = 0 0
+37615/0x2079df:  __pthread_sigmask(0x3, 0x7FFF5FBFF640, 0x0)		 = 0 0
+37615/0x2079fe:  sigaltstack(0x0, 0xC420041F78, 0x0)		 = 0 0
+37615/0x2079fe:  sigaltstack(0xC420041F38, 0x0, 0x0)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fe:  __pthread_sigmask(0x3, 0xC420041F8C, 0x0)		 = 0 0
+37615/0x2079fd:  __pthread_sigmask(0x3, 0x1126008, 0xC42003FE40)		 = 0 0
+37615/0x2079fd:  bsdthread_create(0x102A680, 0xC42005C000, 0xC420076000)		 = 0 0
+37615/0x2079fd:  __pthread_sigmask(0x3, 0xC42003FE40, 0x0)		 = 0 0
+37615/0x2079ff:  sigaltstack(0x0, 0xC420075F78, 0x0)		 = 0 0
+37615/0x2079ff:  sigaltstack(0xC420075F38, 0x0, 0x0)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079ff:  __pthread_sigmask(0x3, 0xC420075F8C, 0x0)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+dtrace: error on enabled probe ID 2132 (ID 165: syscall::write:return): invalid kernel access in action #13 at DIF offset 92
+0x0, 0xC420043F08)		 = 0 0
+37615/0x2079df:  stat64(".\0", 0xC42007C108, 0x0)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079df:  stat64("/Users/01018541/go/src/github.com/revenue-hack/go-sample\0", 0xC42007C2A8, 0x0)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079df:  mmap(0x0, 0x40000, 0x3, 0x1002, 0xFFFFFFFF, 0x0)		 = 0x11D8000 0
+37615/0x2079ff:  select(0x0, 0x0, 0x0, 0x0, 0xC420075E48)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = 0 0
+37615/0x2079fc:  select(0x0, 0x0, 0x0, 0x0, 0xC420043F08)		 = -1 Err#4
+
